@@ -1,8 +1,8 @@
 # input('importing...') Check that modules are installed in global environment and not just venv
 # new to v4.0 againt 3.9: Split the metadata functions
 
-print('Welcome to Michael''s magic pre-processing! The magical tool for renaming all your bullshit.\r\n'
-      'IMPORTANT! This script will only work for one single timezone and only allows you to input one filename'
+print('Welcome to Michael''s magic pre-processing! The magical tool for renaming all your bull****.\r\n'
+      'IMPORTANT! This script will only work for one single timezone and only allows you to input one filename suffix'
       ' for all files\r\n')
 
 # pip install libmagic

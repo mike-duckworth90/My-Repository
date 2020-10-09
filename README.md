@@ -1,6 +1,6 @@
 # Pre-processing of Media
 
-Do you ever find that your photos/videos folder is a total mess? The videos are all at the bottom of the list, your DSLR and Go Pro gives your files meaningless prefixes, and if you use an Android - it very helpfully separates your regular photos from your videos, panorama shots, screenshots and downloads. Helpful as it may be, it still leaves all of your photos in a somewhat scramble - making it difficult to look over yuor day out or trip away in one nice chronological swoop.
+Do you ever find that your photos/videos folder is a total mess? The videos are all at the bottom of the list, your DSLR and Go Pro gives your files meaningless prefixes, and if you use an Android - it very "helpfully" separates your regular photos from your videos, panorama shots, screenshots and downloads. Helpful as it may be, it still leaves all of your photos in a somewhat scramble - making it difficult to look over yuor day out or trip away in one nice chronological swoop.
 
 Enter, the pre-processing script!
 
